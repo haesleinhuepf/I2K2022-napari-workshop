@@ -74,3 +74,7 @@ Linux users please also install this:
 
 ### Deep learning napari ?
 
+
+## License
+
+The materials in this repository are licensed CC-BY 4.0 by the [contributors](https://github.com/haesleinhuepf/I2K2022-napari-workshop/graphs/contributors) unless mentioned otherwise.
