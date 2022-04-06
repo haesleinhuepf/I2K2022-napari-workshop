@@ -21,11 +21,11 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     * Perform segmentation, watershed and then morphological and intensity measurements
     * Show how Restoration can improve downstream measurements.   Show how to explore input images and processed images using Napari and Matplotlib.
     * (Tentative) Briefly show some examples using Deep Learning based restoration (perhaps CARE and Stardist) 
-* Dynamic instability measurment for microtubules (30 min, Varun + ?)
-    * A short intro to Voll Seg Napari plugin and jupyter notebooks for differnet use cases.
-    * Focus on a use case where we use UNET model to extract the edges of a kymograph for studying microtubule dynamics.
-    * From the extracted edges a direct link to using them using MTrack-Ransac fits as Fiji plugin.
-    * In short a workflow for computing dynamic instability of microtubules without doing localization and tracking of the end points using python/Napari and           existing Fiji tools.
+* Different use cases for segmentation in VollSeg Napari plugin (30 min, Varun)
+    * A short intro to VollSeg Napari plugin and jupyter notebooks for differnet use cases.
+    * Demonstrate the plugin on different test cases as outlined [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
+    * Show the UX features like cancelling jobs running in background threads, displaying results of interest and other options to choose from.
+    * A future outlook on how the plugin will link to other plugins and tools to build complete workflows that include tracking, dynamic instability measurment for microtubules and doing auto track correction using action event classification tool Oneat. 
 
 * 3D interactivity in napari (30 mins, can be made shorter if needed, Alister + Kevin)
     * (5 mins) introduction and motivation behind 3D interactivity, show 3D interactivity docs
