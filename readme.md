@@ -13,14 +13,14 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     * Plugin presentation for overlapping labels and labelset creation
     * I/O in a transferable format compatible with ImgLib2/Fiji
     * Outlook to use-cases and possible workflows
-* Restoration and Measurement (60 minutes, Brian + ? ) 
+* Restoration and Measurement (20 minutes, Brian + ? ) 
+    <img src="images/decon_star.png" width="400"/>
     * Atendees should be comfortable programming short Python code segments in IPython Notebook
     * Briefly introduce Deconvolution and Background Subtraction
     * Talk about important of Point Spread Function, how to compute it. 
     * Deconvolve and/or apply background subtration to real images.
     * Perform segmentation, watershed and then morphological and intensity measurements
     * Show how Restoration can improve downstream measurements.   Show how to explore input images and processed images using Napari and Matplotlib.
-    * (Tentative) Briefly show some examples using Deep Learning based restoration (perhaps CARE and Stardist) 
 * Different use cases for segmentation in VollSeg Napari plugin (30 min, Varun)
     * A short intro to VollSeg Napari plugin and jupyter notebooks for differnet use cases.
     * Demonstrate the plugin on different test cases as outlined [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
