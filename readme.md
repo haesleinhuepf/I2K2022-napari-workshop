@@ -6,7 +6,7 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
 * Introduction to napari (15 min, Dannielle)
 * Using napari from Jupyter notebooks (15 min, Marcelo Zoccoler)
 * [Accelerated pixel and object classification](https://www.napari-hub.org/plugins/napari-accelerated-pixel-and-object-classification) (15 min, Robert)
-    <img src="images/apoc.png" width="250"/>
+    <img src="images/apoc.png" width="400"/>
     * Interactive classifier training in napari
     * Application in python
 * Labeling with overlapping labels (~30 minutes, Tom + Joran(maybe))
