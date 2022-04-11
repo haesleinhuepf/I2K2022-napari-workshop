@@ -13,8 +13,8 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     * Plugin presentation for overlapping labels and labelset creation
     * I/O in a transferable format compatible with ImgLib2/Fiji
     * Outlook to use-cases and possible workflows
-* Restoration and Measurement (20 minutes, Brian + ? ) 
-    <img src="images/decon_star.png" width="400"/>  
+* Restoration and Measurement (20 minutes, Brian + ? )  
+     <img src="images/decon_star.png" width="400"/>  
     * Atendees should be comfortable programming short Python code segments in IPython Notebook
     * Briefly introduce Deconvolution and Background Subtraction
     * Talk about important of Point Spread Function, how to compute it. 
