@@ -22,7 +22,10 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     * Deconvolve and/or apply background subtration to real images.
     * Perform segmentation, watershed and then morphological and intensity measurements
     * Show how Restoration can improve downstream measurements.   Show how to explore input images and processed images using Napari and Matplotlib.
-* Different use cases for segmentation in VollSeg Napari plugin (30 min, Varun)
+* Different use cases for segmentation in VollSeg Napari plugin (20 min, Varun)
+      <img src="images/vollseg_1.png" width="400"/> 
+      <img src="images/vollseg_2.png" width="400"/> 
+      
     * A short intro to VollSeg Napari plugin and jupyter notebooks for differnet use cases.
     * Demonstrate the plugin on different test cases as outlined [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
     * Show the UX features like cancelling jobs running in background threads, displaying results of interest and other options to choose from.
