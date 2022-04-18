@@ -30,7 +30,7 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     * Present a second use case on TZYX dataset of breast carcinoma cells
     *  Show the UX features like cancelling jobs running in background threads, displaying results of interest and other options to choose from.
     *  Presnet a third use case of sparse but concentrated 3D nuclei with large background pixels
-    *  Show the availability of training, test datasets and trained models with colab notebooks and accuracy metric evaluation for the presented use cases and nore[here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
+    *  Show the availability of training, test datasets and trained models with colab notebooks and accuracy metric evaluation for the presented use cases and more:  [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
     
 
 * 3D interactivity in napari (30 mins, can be made shorter if needed, Alister + Kevin)
