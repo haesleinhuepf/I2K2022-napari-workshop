@@ -27,9 +27,9 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
       <img src="images/vollseg_2.png" width="400"/> 
     * Demo links: [Video1](https://youtu.be/JCRXih6LRoI)  [Video2](https://youtu.be/7tQMn_u8_7s)
     * A short intro to VollSeg Napari plugin and presnet use case for Light sheet imaged fused Ascadian embryo.
-    * Present a second use case on TZYX dataset of breast carcinoma cells
+    * Present a second use case on TZYX dataset of breast carcinoma cells.
     *  Show the UX features like cancelling jobs running in background threads, displaying results of interest and other options to choose from.
-    *  Presnet a third use case of sparse but concentrated 3D nuclei with large background pixels
+    *  Presnet a third use case of sparse but concentrated 3D nuclei with large background pixels.
     *  Show the availability of training, test datasets and trained models with colab notebooks and accuracy metric evaluation for the presented use cases and more:  [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
     
 
