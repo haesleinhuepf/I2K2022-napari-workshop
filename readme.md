@@ -25,7 +25,7 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
 * Different use cases for segmentation in VollSeg Napari plugin (20 min, Varun)
       <img src="images/vollseg_1.png" width="400"/> 
       <img src="images/vollseg_2.png" width="400"/> 
-    * Demo links: [Video1](https://youtu.be/JCRXih6LRoI)  [Video2](https://youtu.be/7tQMn_u8_7s)
+    * Demo links: [Video1](https://youtu.be/W_gKrLWKNpQ)  [Video2](https://youtu.be/7tQMn_u8_7s)
     * A short intro to VollSeg Napari plugin and presnet use case for Light sheet imaged fused Ascadian embryo.
     * Present a second use case on TZYX dataset of breast carcinoma cells.
     *  Show the UX features like cancelling jobs running in background threads, displaying results of interest and other options to choose from.
