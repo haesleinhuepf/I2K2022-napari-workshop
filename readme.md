@@ -25,11 +25,13 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
 * Different use cases for segmentation in VollSeg Napari plugin (20 min, Varun)
       <img src="images/vollseg_1.png" width="400"/> 
       <img src="images/vollseg_2.png" width="400"/> 
-      
-    * A short intro to VollSeg Napari plugin and jupyter notebooks for differnet use cases.
-    * Demonstrate the plugin on different test cases as outlined [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
-    * Show the UX features like cancelling jobs running in background threads, displaying results of interest and other options to choose from.
-    * A future outlook on how the plugin will link to other plugins and tools to build complete workflows that include tracking, dynamic instability measurment for microtubules and doing auto track correction using action event classification tool Oneat. 
+    * Demo links: [Video1](https://youtu.be/JCRXih6LRoI)  [Video2](https://youtu.be/7tQMn_u8_7s)
+    * A short intro to VollSeg Napari plugin and presnet use case for Light sheet imaged fused Ascadian embryo.
+    * Present a second use case on TZYX dataset of breast carcinoma cells.
+    *  Show the UX features like cancelling jobs running in background threads, displaying results of interest and other options to choose from.
+    *  Presnet a third use case of sparse but concentrated 3D nuclei with large background pixels.
+    *  Show the availability of training, test datasets and trained models with colab notebooks and accuracy metric evaluation for the presented use cases and more:  [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
+    
 
 * 3D interactivity in napari (30 mins, can be made shorter if needed, Alister + Kevin)
     * (5 mins) introduction and motivation behind 3D interactivity, show 3D interactivity docs
