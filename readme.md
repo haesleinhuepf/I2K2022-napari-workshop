@@ -33,20 +33,17 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     *  Show the availability of training, test datasets and trained models with colab notebooks and accuracy metric evaluation for the presented use cases and more:  [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
     
 
-* 3D interactivity in napari (30 mins, can be made shorter if needed, Alister + Kevin)
+* 3D interactivity in napari (15 mins)
+  <img src="images/3d-interactivity.gif" width="400"/>  
     * (5 mins) introduction and motivation behind 3D interactivity, show 3D interactivity docs
         * Large 3D datasets (fluorescence, EM), multiple existing solutions for vis
         * Annotation in 3D is non-trivial but essential for analysis (e.g. deep learning)
         * Also, exploring 3D data along axis not aligned with the data axes is difficult
         * implementing custom modes of interacting with data in 3D currently requires development of an entire application
-    * (10 mins) introduce napari-threedee
+    * (10 mins) introduce napari-threedee, demo and wrap up
         * Use case 1: using built-in widget plugins to interact with your data
         * Use case 2: using the manipulators/annotators in your own application
-    * (5 mins) Interactive demo of use case 1
-        * Highlight a couple of cases of interactive with 3D data using the built-in manipulators and annotators
-    * (5 mins) Interactive demo of use case 2
-        * We will make a plugin ahead of time that consumes napari-threedee and show the code as well as demo the usage
-    * (5 mins) Wrap up
+    
 * How to make napari plugins (30 min, Draga)
 
 ## Installation instructions
