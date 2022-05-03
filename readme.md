@@ -10,11 +10,11 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     <img src="images/apoc.png" width="400"/>
     * Interactive classifier training in napari
     * Application in python
-* Labeling with overlapping labels (~30 minutes, Tom + Joran(maybe))
+* Labeling with overlapping labels (~30 minutes, Tom Burke + Joran Deschamps(maybe))
     * Plugin presentation for overlapping labels and labelset creation
     * I/O in a transferable format compatible with ImgLib2/Fiji
     * Outlook to use-cases and possible workflows
-* Restoration and Measurement (20 minutes, Brian + ? )  
+* Restoration and Measurement (20 minutes, Brian Northan)  
      <img src="images/decon_star.png" width="400"/>  
     * Atendees should be comfortable programming short Python code segments in IPython Notebook
     * Briefly introduce Deconvolution and Background Subtraction
@@ -22,7 +22,7 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     * Deconvolve and/or apply background subtration to real images.
     * Perform segmentation, watershed and then morphological and intensity measurements
     * Show how Restoration can improve downstream measurements.   Show how to explore input images and processed images using Napari and Matplotlib.
-* Different use cases for segmentation in VollSeg Napari plugin (20 min, Varun)
+* Different use cases for segmentation in VollSeg Napari plugin (20 min, Varun Kapoor)
       <img src="images/vollseg_1.png" width="400"/> 
       <img src="images/vollseg_2.png" width="400"/> 
     * Demo links: [Video1](https://youtu.be/W_gKrLWKNpQ)  [Video2](https://youtu.be/7tQMn_u8_7s)
@@ -33,8 +33,8 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     *  Show the availability of training, test datasets and trained models with colab notebooks and accuracy metric evaluation for the presented use cases and more:  [here](https://github.com/Kapoorlabs-CAPED/CAPED-AI-vollseg-napari).
     
 
-* 3D interactivity in napari (15 mins)
-  <img src="images/3d-interactivity.gif" width="400"/>  
+* 3D interactivity in napari (15 mins, Alister Burt, Kevin Yamauchi)
+       <img src="images/3d-interactivity.gif" width="400"/>  
     * (5 mins) introduction and motivation behind 3D interactivity, show 3D interactivity docs
         * Large 3D datasets (fluorescence, EM), multiple existing solutions for vis
         * Annotation in 3D is non-trivial but essential for analysis (e.g. deep learning)
@@ -43,8 +43,6 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     * (10 mins) introduce napari-threedee, demo and wrap up
         * Use case 1: using built-in widget plugins to interact with your data
         * Use case 2: using the manipulators/annotators in your own application
-    
-* How to make napari plugins (30 min, Draga)
 
 ## Installation instructions
 
