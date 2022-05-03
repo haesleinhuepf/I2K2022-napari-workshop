@@ -3,7 +3,7 @@
 This is a joint effort by the [napari](https://napari.org) community. Napari is a tool gaining more and more attention in the bio-image analysis community. Beyond giving a general introduction to napari and its plugin ecosystem, we would like to demonstrate its current capabilities and some plugins we are working on and with.
 
 ## Provisional program
-* Introduction to napari (15 min, Dannielle)
+* Introduction to napari (15 min, Lorenzo Gaifas)
 * Using napari from Jupyter notebooks (15 min, Marcelo Zoccoler)
     <img src="images/notebook_and_napari.png" width="400"/>  
 * [Accelerated pixel and object classification](https://www.napari-hub.org/plugins/napari-accelerated-pixel-and-object-classification) (15 min, Robert)
