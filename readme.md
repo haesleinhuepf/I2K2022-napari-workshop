@@ -72,6 +72,30 @@ Mac-users please also install this:
 Linux users please also install this:
 
     conda install -c conda-forge ocl-icd-system
+    
+### deconvolution napari
+
+Deconvolution napari is an extension of developmental biology napari but requires the jupyter notebook extension and a couple of experimental libraries.
+
+We could just add these to devbio-napari but it's good practice to install experimental libraries in a new environment. 
+
+    conda create --name decon-napari python=3.9
+    conda activate decon-napari
+    conda install -c conda-forge jupyterlab
+    conda install -c conda-forge pyopencl==2021.2.6 hdbscan numba=0.55.1
+    pip install devbio-napari
+    conda install -c conda-forge fftw
+    pip install napari-sdeconv
+    
+    (there will be a couple more packages to install, but anyone looking for a head start install the above and report any issues)
+
+Mac-users please also install this:
+
+    conda install -c conda-forge ocl_icd_wrapper_apple
+
+Linux users please also install this:
+
+    conda install -c conda-forge ocl-icd-system
 
 ### Deep learning napari ?
 
