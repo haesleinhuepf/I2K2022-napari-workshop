@@ -43,6 +43,8 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
     * (10 mins) introduce napari-threedee, demo and wrap up
         * Use case 1: using built-in widget plugins to interact with your data
         * Use case 2: using the manipulators/annotators in your own application
+* How to make Napari plugins + testing (Draga Doncila Pop)
+  * [Pre-recorded tutorial](https://www.youtube.com/watch?v=NL-VywidzXE)
 
 ## Installation instructions
 
