@@ -88,8 +88,9 @@ We could just add these to devbio-napari but it's good practice to install exper
     pip install devbio-napari
     conda install -c conda-forge fftw
     pip install napari-sdeconv
-    
-    (there will be a couple more packages to install, but anyone looking for a head start install the above and report any issues)
+    pip install git+https://github.com/True-North-Intelligent-Algorithms/tnia-python
+    pip install --index-url https://test.pypi.org/simple/ --no-deps clij2-fft
+    pip install stardist
 
 Mac-users please also install this:
 
