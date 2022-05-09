@@ -6,6 +6,9 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
 * Introduction to napari (15 min, Lorenzo Gaifas)
 * Using napari from Jupyter notebooks (15 min, Marcelo Zoccoler)
     <img src="images/notebook_and_napari.png" width="400"/>  
+    * [Prepare data](notebooks_and_napari/save_image_locally.ipynb)
+    * [My Segmentation Workflow](notebooks_and_napari/my_segmentation_workflow.ipynb)
+    * [Batch Segmentation Workflow](notebooks_and_napari/batch_segmentation_workflow.ipynb)
 * [Accelerated pixel and object classification](https://www.napari-hub.org/plugins/napari-accelerated-pixel-and-object-classification) (15 min, Robert Haase)
     <img src="images/apoc.png" width="400"/>
     * Interactive classifier training in napari
