@@ -12,7 +12,7 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
 * [Accelerated pixel and object classification](https://www.napari-hub.org/plugins/napari-accelerated-pixel-and-object-classification) (15 min, Robert Haase)
     <img src="images/apoc.png" width="400"/>
     * Interactive classifier training in napari
-    * Application in python
+    * [Application in python](apoc/apoc_demo.ipynb)
 * Labeling with overlapping labels (~30 minutes, Tom Burke + Joran Deschamps(maybe))
     * Plugin presentation for overlapping labels and labelset creation
     * I/O in a transferable format compatible with ImgLib2/Fiji
