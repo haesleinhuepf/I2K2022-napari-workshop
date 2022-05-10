@@ -69,10 +69,8 @@ Afterwards, please create a couple of environments
 
 [See also](https://github.com/haesleinhuepf/devbio-napari#installation)
 
-    conda create --name devbio-napari python=3.9
+    conda create --name devbio-napari python=3.9 devbio-napari -c conda-forge
     conda activate devbio-napari
-    conda install -c conda-forge pyopencl==2021.2.6 hdbscan numba=0.55.1
-    pip install devbio-napari
 
 Mac-users please also install this:
 
