@@ -2,16 +2,20 @@
 
 This is a joint effort by the [napari](https://napari.org) community. Napari is a tool gaining more and more attention in the bio-image analysis community. Beyond giving a general introduction to napari and its plugin ecosystem, we would like to demonstrate its current capabilities and some plugins we are working on and with.
 
-## Provisional program
+## Venue
+
+The workshop will take place 7 am CT (2 pm CEST) on the [image.sc gather town island](https://gather.town/app/nq1oQrNJ1UIQ5t01/imagesc-island)
+
+## Program
 * Introduction to napari (15 min, Lorenzo Gaifas)
 * Using napari from Jupyter notebooks (15 min, Marcelo Zoccoler)
     <img src="images/notebook_and_napari.png" width="400"/>  
     * [Prepare data](notebooks_and_napari/save_image_locally.ipynb)
     * [My Segmentation Workflow](notebooks_and_napari/my_segmentation_workflow.ipynb)
     * [Batch Segmentation Workflow](notebooks_and_napari/batch_segmentation_workflow.ipynb)
-* [Accelerated pixel and object classification](https://www.napari-hub.org/plugins/napari-accelerated-pixel-and-object-classification) (15 min, Robert Haase)
+* Accelerated pixel and object classification (15 min, Robert Haase)
     <img src="images/apoc.png" width="400"/>
-    * Interactive classifier training in napari
+    * [Interactive classifier training in napari](https://www.napari-hub.org/plugins/napari-accelerated-pixel-and-object-classification)
     * [Application in python](apoc/apoc_demo.ipynb)
 * Labeling with overlapping labels (~30 minutes, Tom Burke + Joran Deschamps(maybe))
     * Plugin presentation for overlapping labels and labelset creation
@@ -102,9 +106,6 @@ Mac-users please also install this:
 Linux users please also install this:
 
     conda install -c conda-forge ocl-icd-system
-
-### Deep learning napari ?
-
 
 ## License
 
