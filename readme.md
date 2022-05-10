@@ -17,7 +17,7 @@ The workshop will take place 7 am CT (2 pm CEST) on the [image.sc gather town is
     <img src="images/apoc.png" width="400"/>
     * [Interactive classifier training in napari](https://www.napari-hub.org/plugins/napari-accelerated-pixel-and-object-classification)
     * [Application in python](apoc/apoc_demo.ipynb)
-* Labeling with overlapping labels (~30 minutes, Tom Burke + Joran Deschamps(maybe))
+* Labeling with overlapping labels (15 minutes, Tom Burke + Joran Deschamps(maybe))
     * Plugin presentation for overlapping labels and labelset creation
     * I/O in a transferable format compatible with ImgLib2/Fiji
     * Outlook to use-cases and possible workflows
