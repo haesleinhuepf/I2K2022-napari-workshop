@@ -6,7 +6,7 @@ This is a joint effort by the [napari](https://napari.org) community. Napari is 
 
 The workshop will take place 7 am CT (2 pm CEST) in the Forum south-east on the [image.sc gather town island](https://gather.town/app/nq1oQrNJ1UIQ5t01/imagesc-island)
 
-![img.png](images/forum.png)
+![img.png](images/forum2.png)
 
 ## Program
 * Introduction to napari (15 min, Lorenzo Gaifas)
