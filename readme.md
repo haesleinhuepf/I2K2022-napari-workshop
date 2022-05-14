@@ -1,5 +1,8 @@
 # I2K2022 napari workshop
 
+[![DOI](https://zenodo.org/badge/478703346.svg)](https://zenodo.org/badge/latestdoi/478703346)
+
+
 This is a joint effort by the [napari](https://napari.org) community. Napari is a tool gaining more and more attention in the bio-image analysis community. Beyond giving a general introduction to napari and its plugin ecosystem, we would like to demonstrate its current capabilities and some plugins we are working on and with.
 
 ## Venue
